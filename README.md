@@ -165,7 +165,7 @@ predict(w1,w2,test)
 
 ## OUTPUT
 ### Loss Graph
-![](1.png)
+<img src= "https://github.com/Kaushika-Anandh/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/1.png" width="250" height="250">
 
 ### Input - Output for XOR Gate
 ![](2.PNG)
